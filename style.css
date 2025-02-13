@@ -63,7 +63,7 @@ p{
 }
 
 .character1{
-	background: url(img/character1) no-repeat 0 0;
+	background: url(img/character1.png) no-repeat 0 0;
 	background-size: 100%;
  	width: 363px;
  	height: 344px;
@@ -72,7 +72,7 @@ p{
 }
 
 .character2{
-	background: url(img/character2) no-repeat 0 0;
+	background: url(img/character2.png) no-repeat 0 0;
 	background-size: 100%;
  	width: 309px;
  	height: 371px;
