@@ -267,7 +267,7 @@ box-sizing: border-box;
 }
 
 .popup{
-	
+	display: none;
 	position: fixed;
 	top: 0;
 	bottom: 0;
@@ -278,6 +278,10 @@ box-sizing: border-box;
 
 .popup.show{
 	display: block;
+}
+
+.popup .hide{
+display: none;
 }
 
 .popup .blanket{
